@@ -20,6 +20,7 @@ curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/s
 source ~/.bashrc
 
 # Install and update Soundness
+source ~/.bashrc
 soundnessup install
 soundnessup update
 
